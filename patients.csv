@@ -1,0 +1,6 @@
+patient_id,name,age,blood_pressure,heart_rate,diagnosis
+P001,Alice Smith,34,120/80,72,Healthy
+P002,Bob Johnson,45,140/90,85,Hypertension
+P003,Carol davis,29,110/70,68,Healthy
+P004,David Wilson,51,150/95,92,Hypertension
+P005,Eva Brown,62,130/85,78,Diabetes
